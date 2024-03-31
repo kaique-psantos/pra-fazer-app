@@ -19,7 +19,7 @@ export default function App() {
 
       <TouchableOpacity style={styles.btn}><Text style={styles.textBtn}>Entrar</Text></TouchableOpacity>
       
-      <TouchableOpacity><Text style={styles.textCriarUsuario}>Criar usuário - Teste git hub</Text></TouchableOpacity>
+      <TouchableOpacity><Text style={styles.textCriarUsuario}>Criar usuário</Text></TouchableOpacity>
 
     </View>
   );
